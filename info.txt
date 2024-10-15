@@ -1,0 +1,16 @@
+The info() method of a Logger class is used to Log an INFO message. This method is used to forward logs to all the registered output Handler objects.
+
+INFO message: Info is for the use of administrators or advanced users. It denotes mostly the actions that have led to a change in state for the application.
+
+There are two types of info() method depending upon no of parameters passed. 
+
+1. info(String msg): This method is used to forward the string passed as a parameter to method to all the registered output Handler objects.
+
+Syntax: 
+
+public void info(String msg)
+Parameters: This method accepts a single parameter String which is the information we want to pass to logs.
+
+Return value: This method returns nothing.
+
+Below programs illustrate the info(String msg) method:

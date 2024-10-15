@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../resume"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "resume",
+    "git.ignoreLimitWarning": true
+  }
+}

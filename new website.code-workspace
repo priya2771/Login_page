@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "../new website"
+	},
+	{
+		"path": "../Project 2"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "new website",
+    "git.ignoreLimitWarning": true
+  }
+}
